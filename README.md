@@ -2,8 +2,6 @@
 
 This is an augmented reality skeleton puzzle game developed to drive interests in biology through affordable interactive education
 
-C
-
 Time spent: 2 days
 
 ## Features
