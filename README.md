@@ -2,11 +2,7 @@
 
 This is an augmented reality skeleton puzzle game developed to drive interests in biology through affordable interactive education
 
-Created by: Kathleen Doviken, Marco Guajardo, Paloma June, William X.  
-
-Abstract Writer, Bio consultant: Paloma June  
-Developers: Kathleen Doviken, William X.  
-Graphic Designer: Marco Guadjardo  
+C
 
 Time spent: 2 days
 
@@ -16,20 +12,10 @@ Time spent: 2 days
 * [x] Created an online variant of the puzzle game
 * [x] Created a flash card style quiz through the use of individual markers
 
-<p float="left">
-<img src='https://github.com/williamx98/lifescihacks2019/blob/master/mobile.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
-<img src='https://github.com/williamx98/lifescihacks2019/blob/master/single.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
-<img src='https://github.com/williamx98/lifescihacks2019/blob/master/laptop.gif' title='Video Walkthrough' width='250' alt='Video Walkthrough' />
-
-</p>
-
-GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## License
 
-    Copyright 2018 Will Xu
+    Copyright 2018
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
